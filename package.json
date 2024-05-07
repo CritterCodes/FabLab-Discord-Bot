@@ -1,0 +1,22 @@
+{
+  "name": "fablabbot",
+  "version": "1.0.0",
+  "description": "Discord bot for Fort Smiths Fab Lab.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "express",
+    "server"
+  ],
+  "author": "CritterCodes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.1"
+  }
+}
